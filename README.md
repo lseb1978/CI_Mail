@@ -4,7 +4,7 @@
 
 This repository is developed upon the following tools: 
 * [CodeIgniter](http://www.codeigniter.com/) (v3.1.3) - PHP framework
-* [jQuery] (https://jquery.org/) (1.9.1) - cross-platform JavaScript library designed to simplify the client-side scripting of HTML.
+* [jQuery](https://jquery.org/) (1.9.1) - cross-platform JavaScript library designed to simplify the client-side scripting of HTML.
 * [Twitter Bootstrap](https://github.com/twbs/bootstrap) (v3.3.7) - popular frontend HTML, CSS, and JS framework
 * [Glyphicons](http://glyphicons.com/) is a library of precisely 
 prepared monochromatic icons and symbols, and the small PNG 
