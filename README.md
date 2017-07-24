@@ -1,8 +1,9 @@
 # CI_Mail
 
-Bundles the following packages together.
+**Note: This project is still in progress, but welcome for any issues encountered**
 
-* [CodeIgniter](https://github.com/bcit-ci/CodeIgniter)
+This repository is developed upon the following tools: 
+* [CodeIgniter](http://www.codeigniter.com/) (v3.1.3) - PHP framework
 * [Twitter Bootstrap](https://github.com/twbs/bootstrap)
 * [Glyphicons](http://glyphicons.com/) is a library of precisely 
 prepared monochromatic icons and symbols, and the small PNG 
