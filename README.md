@@ -4,10 +4,13 @@
 
 This repository is developed upon the following tools: 
 * [CodeIgniter](http://www.codeigniter.com/) (v3.1.3) - PHP framework
-* [Twitter Bootstrap](https://github.com/twbs/bootstrap)
+* [jQuery] (https://jquery.org/) (1.9.1) - cross-platform JavaScript library designed to simplify the client-side scripting of HTML.
+* [Twitter Bootstrap](https://github.com/twbs/bootstrap) (v3.3.7) - popular frontend HTML, CSS, and JS framework
 * [Glyphicons](http://glyphicons.com/) is a library of precisely 
 prepared monochromatic icons and symbols, and the small PNG 
 format is free for both personal and commercial use.
+
+GLYPHICONS Halflings font is also released as an extension of a Bootstrap www.getbootstrap.com for free and it is released under the same license as Bootstrap.
 
 
 
@@ -15,8 +18,9 @@ format is free for both personal and commercial use.
 
 MIT with [CodeIgniter Amendments](http://codeigniter.com/user_guide/license.html)
 
-Code and documentation copyright 2011-2017 the [Bootstrap Authors](https://github.com/twbs/bootstrap/graphs/contributors) and [Twitter, Inc.](https://twitter.com) Code released under the [MIT License](https://github.com/twbs/bootstrap/blob/master/LICENSE). Docs released under [Creative Commons](https://github.com/twbs/bootstrap/blob/master/docs/LICENSE).
+jQuery Foundation - MIT (https://jquery.org/license/)  It is free, open-source software using the permissive MIT license.
 
+Code and documentation copyright 2011-2017 the [Bootstrap Authors](https://github.com/twbs/bootstrap/graphs/contributors) and [Twitter, Inc.](https://twitter.com) Code released under the [MIT License](https://github.com/twbs/bootstrap/blob/master/LICENSE). Docs released under [Creative Commons](https://github.com/twbs/bootstrap/blob/master/docs/LICENSE).
 
 Accroding to the [License of Glyphicons](http://glyphicons.com/glyphicons-licenses/):
 
